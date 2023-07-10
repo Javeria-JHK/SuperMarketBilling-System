@@ -1,0 +1,243 @@
+[{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fb6"
+  },
+  "id": 1,
+  "name": "Eggs",
+  "Description": "12 eggs per pack",
+  "price": 300,
+  "quantity": 175
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fb7"
+  },
+  "id": 2,
+  "name": "Noodles",
+  "Description": "homemade",
+  "price": 200,
+  "quantity": 53,
+  "discount": 0.1
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fb8"
+  },
+  "id": 3,
+  "name": "Beef Meat",
+  "Description": "Halal",
+  "price": 1500,
+  "quantity": 41
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fb9"
+  },
+  "id": 4,
+  "name": "Sauces",
+  "Description": "5 types of sauces",
+  "price": 500,
+  "quantity": 50,
+  "discount": 0.2
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fba"
+  },
+  "id": 5,
+  "name": "Milk",
+  "Description": "fresh cow milk",
+  "price": 250,
+  "quantity": 58
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fbb"
+  },
+  "id": 6,
+  "name": "Brown Bread",
+  "Description": "fresh homemade bread",
+  "price": 230,
+  "quantity": 47
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fbc"
+  },
+  "id": 7,
+  "name": "Coffee Beans",
+  "Description": "granulated",
+  "price": 300,
+  "quantity": 49
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fbd"
+  },
+  "id": 8,
+  "name": "Chips-Lays",
+  "Description": "packet",
+  "price": 50,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fbe"
+  },
+  "id": 9,
+  "name": "Chocolate",
+  "Description": "black dark chocolate",
+  "price": 600,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fbf"
+  },
+  "id": 10,
+  "name": "Juice-Mango",
+  "Description": "extracted from organic fruits",
+  "price": 300,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fc0"
+  },
+  "id": 11,
+  "name": "Juice-peach",
+  "Description": "extracted from organic fruits",
+  "price": 300,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fc1"
+  },
+  "id": 12,
+  "name": "Tea",
+  "Description": "granules",
+  "price": 750,
+  "quantity": 60,
+  "discount": 0.15
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fc2"
+  },
+  "id": 13,
+  "name": "Oatmeal",
+  "Description": "canned",
+  "price": 450,
+  "quantity": 49
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fc3"
+  },
+  "id": 14,
+  "name": "Chicken",
+  "Description": "whole chopped",
+  "price": 1100,
+  "quantity": 30
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fc4"
+  },
+  "id": 15,
+  "name": "Pasta",
+  "Description": "prepared from wheat",
+  "price": 230,
+  "quantity": 50
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fc5"
+  },
+  "id": 16,
+  "name": "Safeguard",
+  "Description": "soap fro full body",
+  "price": 60,
+  "quantity": 50
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fc6"
+  },
+  "id": 17,
+  "name": "Shampoo",
+  "Description": "includes extracted organic tree oils",
+  "price": 700,
+  "quanity": 70
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fc7"
+  },
+  "id": 18,
+  "name": "Oil",
+  "Description": "per litre",
+  "price": 750,
+  "quantity": 44
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fc8"
+  },
+  "id": 19,
+  "name": "Vegetables",
+  "Description": "Basic vegies pack of each 1 kg",
+  "price": 1100,
+  "quantity": 59
+},
+{
+  "_id": {
+    "$oid": "647ca8eb5585351e806d2fc9"
+  },
+  "id": 20,
+  "name": "Detergent",
+  "Description": "1 litre",
+  "price": 950,
+  "quantity": 30
+},
+{
+  "_id": {
+    "$oid": "6481e3f7ca928978c4e46ab6"
+  },
+  "id": 22,
+  "name": "Water-Bottle",
+  "Description": "Mineral Water",
+  "price": 50,
+  "quantity": 500
+},
+{
+  "_id": {
+    "$oid": "6481e432ca928978c4e46ab7"
+  },
+  "id": 23,
+  "name": "Cold-Drink",
+  "Description": "Soda and zinc",
+  "price": 120,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "6481e46dca928978c4e46ab8"
+  },
+  "id": 24,
+  "name": "sugar",
+  "Description": "white sugar made from sugarcane",
+  "price": 230,
+  "quantity": 100
+},
+{
+  "_id": {
+    "$oid": "64821177ac123a6358a926d5"
+  },
+  "id": 21,
+  "name": "Yougurt",
+  "Description": "freshly made from cow milk",
+  "price": 210,
+  "quantity": 200
+}]

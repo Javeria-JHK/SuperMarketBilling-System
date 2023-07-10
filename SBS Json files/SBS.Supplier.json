@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "647e0ecba8b4f108ce89fd74"
+  },
+  "supplier_id": "400",
+  "name": "Veronica Lodge",
+  "address": "123 Main Street, Riverdale",
+  "contact": {
+    "email": "veronica@notmail.com",
+    "phone": "04563345689",
+    "phone2": "031123456789"
+  },
+  "items": [
+    {
+      "id": "1",
+      "name": "Eggs",
+      "quantity": 1000
+    },
+    {
+      "id": "2",
+      "name": "Noodles",
+      "quantity": 50
+    },
+    {
+      "id": "3",
+      "name": "Beef Meat",
+      "quantity": 75
+    },
+    {
+      "id": "4",
+      "name": "Sauces",
+      "quantity": 60
+    },
+    {
+      "id": "5",
+      "name": "Milk",
+      "quantity": 50
+    },
+    {
+      "id": "18",
+      "name": "Oil",
+      "quantity": 50
+    },
+    {
+      "id": "19",
+      "name": "Vegetables",
+      "quantity": 50
+    },
+    {
+      "id": "20",
+      "name": "Detergent",
+      "quantity": 50
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "647e0ecba8b4f108ce89fd75"
+  },
+  "supplier_id": "401",
+  "name": "Hiram Lodge",
+  "address": "111 Main Street North, Riverdale",
+  "contact": {
+    "email": "hiram@notmail.com",
+    "phone": "04999345689"
+  },
+  "items": [
+    {
+      "id": "6",
+      "name": "Brown Bread",
+      "quantity": 100
+    },
+    {
+      "id": "7",
+      "name": "Coffee Beans",
+      "quantity": 50
+    },
+    {
+      "id": "8",
+      "name": "Chips-Lays",
+      "quantity": 75
+    },
+    {
+      "id": "9",
+      "name": "Chocolate",
+      "quantity": 60
+    },
+    {
+      "id": "10",
+      "name": "Juice-Mango",
+      "quantity": 50
+    },
+    {
+      "id": "11",
+      "name": "Juice-Peach",
+      "quantity": 50
+    },
+    {
+      "id": "12",
+      "name": "Tea",
+      "quantity": 50
+    },
+    {
+      "id": "13",
+      "name": "Oatmeal",
+      "quantity": 50
+    },
+    {
+      "id": "14",
+      "name": "Chicken",
+      "quantity": 50
+    },
+    {
+      "id": "15",
+      "name": "Pasta",
+      "quantity": 50
+    },
+    {
+      "id": "16",
+      "name": "Safeguard",
+      "quantity": 50
+    },
+    {
+      "id": "17",
+      "name": "Shampoo",
+      "quantity": 50
+    }
+  ]
+}]

@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "647e07eaa8b4f108ce89fd72"
+  },
+  "Manager_id": "200",
+  "Manager_name": "Betty Cooper",
+  "Manager_email": "betty@notmail.com",
+  "password": "admin123",
+  "contact": "03236788986"
+}]

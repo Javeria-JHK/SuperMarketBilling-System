@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "647cca5e5585351e806d2fd1"
+  },
+  "branch_id": "100",
+  "branch_name": "SBS",
+  "location": "Main Market Los Angeles",
+  "Manager_id": "200"
+},
+{
+  "_id": {
+    "$oid": "647e06f8a8b4f108ce89fd6f"
+  },
+  "branch_id": "101",
+  "branch_name": "SMBS",
+  "location": "North Market Riverdale",
+  "Manager_id": "201"
+}]
