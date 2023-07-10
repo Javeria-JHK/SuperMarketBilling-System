@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "647cae6a5585351e806d2fcb"
+  },
+  "Employee_id": 1100,
+  "Fname": "Archie",
+  "Lname": "Andrews",
+  "Email": "Archiekins@notmail.com",
+  "Gender": "Male",
+  "Contact": "03021332101",
+  "Age": 30,
+  "Password": "Archie123",
+  "Experiance": "5 years"
+},
+{
+  "_id": {
+    "$oid": "647cae6a5585351e806d2fcc"
+  },
+  "Employee_id": 1101,
+  "Fname": "Jughead",
+  "Lname": "Jones",
+  "Email": "jj@notmail.com",
+  "Gender": "Male",
+  "Contact": "03021442101",
+  "Age": 28,
+  "Password": "jughead123",
+  "Experiance": "3 years"
+},
+{
+  "_id": {
+    "$oid": "647cae6a5585351e806d2fcd"
+  },
+  "Employee_id": 1102,
+  "Fname": "Kevin",
+  "Lname": "Keller",
+  "Email": "kk@notmail.com",
+  "Gender": "Male",
+  "Contact": "03031232101",
+  "Age": 29,
+  "Password": "Kevin123",
+  "Experiance": "1 years"
+},
+{
+  "_id": {
+    "$oid": "647cae6a5585351e806d2fce"
+  },
+  "Employee_id": 1103,
+  "Fname": "Reginald",
+  "Lname": "Mantle",
+  "Email": "reg@notmail.com",
+  "Gender": "Male",
+  "Contact": "03021337788",
+  "Age": 30,
+  "Password": "Reginald123",
+  "Experiance": "no experiance"
+},
+{
+  "_id": {
+    "$oid": "6482103dac123a6358a926cf"
+  },
+  "Employee_id": 1104,
+  "Fname": "Tabitha",
+  "Lname": "Tate",
+  "Email": "Tab@notmail.com",
+  "Gender": "Female",
+  "Contact": "004666636884",
+  "Age": 27,
+  "Password": "Tabitha123",
+  "Experiance": "no experience"
+}]
